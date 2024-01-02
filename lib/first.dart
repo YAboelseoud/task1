@@ -21,7 +21,7 @@ class _FirstState extends State<First> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Container(
-                  child: Text("Hi there!",
+                  child: Text("Hi there!!",
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 30,color: Colors.black),
                   ),
                 ),
